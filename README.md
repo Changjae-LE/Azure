@@ -1,5 +1,6 @@
 # Microsoft Azure Administration Labs and Resources
-source: Udemy — Get prepared for the AZ-104 exam with instructor led labs and hands on simulations available 24/7
+### source
+- Udemy — Get prepared for the AZ-104 exam with instructor led labs and hands on simulations available 24/7
 
 ## Create a Free Azure Account
 - [azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
